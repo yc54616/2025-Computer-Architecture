@@ -1,0 +1,22 @@
+Program exit from an exit() system call
+------------ STATISTICS -----------
+Number of Instructions: 1290530
+Number of Cycles: 2952866
+Avg Cycles per Instrcution: 2.2881
+Branch Prediction Accuracy: 0.2998 (Strategy: Always Not Taken)
+Number of Control Hazards: 80119
+Number of Data Hazards: 1200165
+Number of Memory Hazards: 210003
+Benchmark Score (bigger is better): 2.9603
+-----------------------------------
+
+---------- L1 CACHE STATISTICS ----------
+Total Read Bytes: 8843196
+Total Write Bytes: 4675904
+Total Hit Bytes: 11494906
+Total Miss Bytes: 2024194
+---------- L2 CACHE STATISTICS ----------
+Total Read Bytes: 8096776
+Total Write Bytes: 4455892
+Total Hit Bytes: 12421503
+Total Miss Bytes: 131165
